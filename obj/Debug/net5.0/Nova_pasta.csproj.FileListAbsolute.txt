@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\Nova_pasta\bin\Debug\net5.0\Nova_pasta.exe
+C:\Users\dev\Desktop\Nova_pasta\bin\Debug\net5.0\Nova_pasta.deps.json
+C:\Users\dev\Desktop\Nova_pasta\bin\Debug\net5.0\Nova_pasta.runtimeconfig.json
+C:\Users\dev\Desktop\Nova_pasta\bin\Debug\net5.0\Nova_pasta.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Nova_pasta\bin\Debug\net5.0\Nova_pasta.dll
+C:\Users\dev\Desktop\Nova_pasta\bin\Debug\net5.0\ref\Nova_pasta.dll
+C:\Users\dev\Desktop\Nova_pasta\bin\Debug\net5.0\Nova_pasta.pdb
+C:\Users\dev\Desktop\Nova_pasta\obj\Debug\net5.0\Nova_pasta.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Nova_pasta\obj\Debug\net5.0\Nova_pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Nova_pasta\obj\Debug\net5.0\Nova_pasta.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Nova_pasta\obj\Debug\net5.0\Nova_pasta.AssemblyInfo.cs
+C:\Users\dev\Desktop\Nova_pasta\obj\Debug\net5.0\Nova_pasta.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Nova_pasta\obj\Debug\net5.0\Nova_pasta.dll
+C:\Users\dev\Desktop\Nova_pasta\obj\Debug\net5.0\ref\Nova_pasta.dll
+C:\Users\dev\Desktop\Nova_pasta\obj\Debug\net5.0\Nova_pasta.pdb
+C:\Users\dev\Desktop\Nova_pasta\obj\Debug\net5.0\Nova_pasta.genruntimeconfig.cache
